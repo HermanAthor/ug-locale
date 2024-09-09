@@ -21,3 +21,5 @@ class UgaLocale {
     return villages.filter((v) => v.parish === parishId);
   }
 }
+
+export { UgaLocale };
